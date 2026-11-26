@@ -1,0 +1,17 @@
+# Build output
+target/
+out/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+desktop.ini
+.DS_Store
+
+# Local secrets (never commit)
+.env
+application-local.properties
